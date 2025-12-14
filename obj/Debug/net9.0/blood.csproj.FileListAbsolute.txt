@@ -1,0 +1,14 @@
+C:\C# codes\blood\bin\Debug\net9.0\blood.exe
+C:\C# codes\blood\bin\Debug\net9.0\blood.deps.json
+C:\C# codes\blood\bin\Debug\net9.0\blood.runtimeconfig.json
+C:\C# codes\blood\bin\Debug\net9.0\blood.dll
+C:\C# codes\blood\bin\Debug\net9.0\blood.pdb
+C:\C# codes\blood\obj\Debug\net9.0\blood.GeneratedMSBuildEditorConfig.editorconfig
+C:\C# codes\blood\obj\Debug\net9.0\blood.AssemblyInfoInputs.cache
+C:\C# codes\blood\obj\Debug\net9.0\blood.AssemblyInfo.cs
+C:\C# codes\blood\obj\Debug\net9.0\blood.csproj.CoreCompileInputs.cache
+C:\C# codes\blood\obj\Debug\net9.0\blood.dll
+C:\C# codes\blood\obj\Debug\net9.0\refint\blood.dll
+C:\C# codes\blood\obj\Debug\net9.0\blood.pdb
+C:\C# codes\blood\obj\Debug\net9.0\blood.genruntimeconfig.cache
+C:\C# codes\blood\obj\Debug\net9.0\ref\blood.dll
