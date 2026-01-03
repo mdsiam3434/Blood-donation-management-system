@@ -1,5 +1,5 @@
-﻿﻿using System;
-//1st part//
+using System;
+//NAFIS KHAN //
 class Person
 {
     public string name;
@@ -87,7 +87,6 @@ class BloodRequest : Request
        
     }
 }
-//2nd part//
 static class ManageBloodRequest
 {
     
@@ -188,7 +187,7 @@ static class ManageBloodRequest
         }
     }
 }
-//3rd part//
+//ABDUL KARIM//
 static class ManageUser
 {
     private static Doner[] doners = new Doner[100];
@@ -335,8 +334,9 @@ static class ManageUser
 
 }
 
-//4th and 5th part//
+
 class Program
+//JIHADUL ISLAM SIAM//
 {
     public static Doner loggedInDoner;
     public static Consumer loggedInConsumer;
@@ -510,6 +510,7 @@ class Program
             Authentication();
         }
     }
+    //SAJJADUL ISLAM NOMAN//
 
     // ------------------ doner home section ------------------
     public static void DonerHome()
@@ -616,6 +617,7 @@ class Program
         DonerHome();
 
     }
+    //ASADUJJAMAN NAYEEM //
 
     // ----------------- consumer home section ------------------
     public static void ConsumerHome()
